@@ -37,7 +37,7 @@ public class Nomor2{
 
         double biayaMenginap = lamaMenginap *tarif
 
-    }
+        }
     }
 }
         
